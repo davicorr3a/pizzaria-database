@@ -26,7 +26,7 @@ Este projeto propõe o desenvolvimento de um sistema básico para uma pizzaria, 
 *   **MySQL**: Banco de dados relacional para armazenar informações de produtos, clientes e pedidos.
     
 
-#### Estrutura do Sistema
+#### Estrutura do Sistema de banco
 
 1.  **Página Inicial:** Apresenta o cardápio com as opções de pizza e botões para realizar pedidos.
     
